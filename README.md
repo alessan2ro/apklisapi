@@ -21,7 +21,7 @@ repositories {
 
 * En su `build.gradle` agregue:
 ```groovy
-implementation 'com.github.san2ro:apklisapi:1.0.1'
+implementation 'com.github.alessan2ro:apklisapi:1.0.1'
 ```
 
 * En su  `MainActivity` agregue:
